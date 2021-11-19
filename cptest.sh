@@ -10,18 +10,3 @@ if [ ! -e ${test_dir} ]; then
 fi
 
 oj test -c "python3 ABC_problems/${problem_name}.py" -d test/${problem_name}
-
-"""
-AtCoder
-├── cptest.sh #今回メインとなるシェルスクリプト
-│
-├── input.txt #ゴール2の手入力の値を入れるファイル
-│
-├── ABC_problems #コンテストの問題を格納するディレクトリ 
-│
-├── test #コンテストのサンプルケースを格納するディレクトリ
-│
-└── .vscode #VS Codeの設定ファイルを格納するディレクトリ
-    ├── launch.json #ゴール2の設定ファイル
-    └── tasks.json #ゴール1の設定ファイル
-"""
