@@ -10,3 +10,4 @@ if [ ! -e ${test_dir} ]; then
 fi
 
 oj test -c "python3 ABC_problems/${problem_name}.py" -d test/${problem_name}
+#oj test -c "python3 Atcoder/ABC_problems/${problem_name}.py" -d test/${problem_name}
