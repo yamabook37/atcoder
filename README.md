@@ -1,4 +1,5 @@
 # atcoder
 
 # Requirement
-* python 3.4.3
+* python 3.7.0 
+* PyPy 3.6
