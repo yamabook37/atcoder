@@ -26,12 +26,16 @@ def SRL(n): return [list(S()) for i in range(n)]
 def MSRL(n): return [[int(j) for j in list(S())] for i in range(n)]
 mod = 1000000007
 
+#この秘伝のタレは正直微妙？
+
 n, y = map(int, input().split())
 # yは1000の倍数
 for i in range(n + 1):
     for j in range(n -i +1): #1枚目の種類を決める
         if i*10000 + j*5000 + (n-i-j)*1000 == y:
+        # 3種類目は自動で決まる(n-1枚目-2枚目)のがみそ、これでfor2回でいける
             print(i, j, n-i-j)
+            #正解例は複数あるが初めに見つかったもので出力して良い
             exit()
 # 例外はループの外
 print("-1 -1 -1")
