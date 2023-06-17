@@ -1,8 +1,11 @@
+# file
 online_howtotest_confidence.md
+geckodriver.log
 
-# あえて / なしで該当を全てignore
+environment.md
+VSshort.txt
+
+# directory
 Mind
-
 Knowledge
-
 test

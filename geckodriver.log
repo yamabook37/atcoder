@@ -1,0 +1,44 @@
+1679731815393	geckodriver	INFO	Listening on 127.0.0.1:59502
+1679731815906	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "59503" "--r ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/v5/zbz4y4rs15ddcz1bm851h9dw0000gn/T/rust_mozprofile4G49il"
+2023-03-25 17:10:19.551 firefox-bin[51831:1836894] Warning: Expected min height of view: (<NSButton: 0x12e866800>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+2023-03-25 17:10:19.552 firefox-bin[51831:1836894] Warning: Expected min height of view: (<NSButton: 0x135c32400>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+2023-03-25 17:10:19.552 firefox-bin[51831:1836894] Warning: Expected min height of view: (<NSButton: 0x135c35400>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+2023-03-25 17:10:19.553 firefox-bin[51831:1836894] Warning: Expected min height of view: (<NSButton: 0x135c30400>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+2023-03-25 17:10:19.554 firefox-bin[51831:1836894] Warning: Expected min height of view: (<NSButton: 0x135c32c00>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+2023-03-25 17:10:19.554 firefox-bin[51831:1836894] Warning: Expected min height of view: (<NSPopoverTouchBarItemButton: 0x135c34c00>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+2023-03-25 17:10:19.555 firefox-bin[51831:1836894] Warning: Expected min height of view: (<NSPopoverTouchBarItemButton: 0x136060400>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+1679732012046	geckodriver	INFO	Listening on 127.0.0.1:59793
+1679732012552	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "59794" "--r ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/v5/zbz4y4rs15ddcz1bm851h9dw0000gn/T/rust_mozprofile8NDlTT"
+2023-03-25 17:13:37.191 plugin-container[52239:1842530] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-03-25 17:13:37.191 plugin-container[52239:1842530] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2023-03-25 17:13:37.197 plugin-container[52239:1842530] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-03-25 17:13:37.197 plugin-container[52239:1842530] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2023-03-25 17:13:37.198 plugin-container[52239:1842534] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-03-25 17:13:37.198 plugin-container[52239:1842534] nil host used in call to allowsAnyHTTPSCertificateForHost:
+WebDriver BiDi listening on ws://127.0.0.1:59794
+[GFX1-]: Unrecognized feature VIDEO_OVERLAY
+2023-06-11 00:42:12.992 firefox-bin[51831:1836894] Warning: Expected min height of view: (<NSButton: 0x10edc3400>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+2023-06-11 00:42:12.993 firefox-bin[51831:1836894] Warning: Expected min height of view: (<NSButton: 0x136a97000>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+2023-06-11 00:42:12.994 firefox-bin[51831:1836894] Warning: Expected min height of view: (<NSButton: 0x136a93800>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+2023-06-11 00:42:12.996 firefox-bin[51831:1836894] Warning: Expected min height of view: (<NSButton: 0x136a97800>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+2023-06-11 00:42:12.997 firefox-bin[51831:1836894] Warning: Expected min height of view: (<NSButton: 0x13bf8c800>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+2023-06-11 00:42:12.997 firefox-bin[51831:1836894] Warning: Expected min height of view: (<NSPopoverTouchBarItemButton: 0x13bf8e800>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+2023-06-11 00:42:12.998 firefox-bin[51831:1836894] Warning: Expected min height of view: (<NSPopoverTouchBarItemButton: 0x13f527400>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+[Parent 51831, IPC Launch #1] WARNING: parent GetTranslatedPort(1) failed.: file /builds/worker/checkouts/gecko/ipc/glue/GeckoChildProcessHost.cpp:1310
+[Parent 51831, Gecko_IOThread] WARNING: Failed to launch tab subprocess: file /builds/worker/checkouts/gecko/ipc/glue/GeckoChildProcessHost.cpp:745
+[Parent 51831, IPC Launch #1] WARNING: parent GetTranslatedPort(1) failed.: file /builds/worker/checkouts/gecko/ipc/glue/GeckoChildProcessHost.cpp:1310
+[Parent 51831, Gecko_IOThread] WARNING: Failed to launch tab subprocess: file /builds/worker/checkouts/gecko/ipc/glue/GeckoChildProcessHost.cpp:745
+[Parent 51831, IPC Launch #1] WARNING: parent GetTranslatedPort(1) failed.: file /builds/worker/checkouts/gecko/ipc/glue/GeckoChildProcessHost.cpp:1310
+[Parent 51831, Gecko_IOThread] WARNING: Failed to launch tab subprocess: file /builds/worker/checkouts/gecko/ipc/glue/GeckoChildProcessHost.cpp:745
+[Parent 51831, IPC Launch #1] WARNING: parent GetTranslatedPort(1) failed.: file /builds/worker/checkouts/gecko/ipc/glue/GeckoChildProcessHost.cpp:1310
+[Parent 51831, Gecko_IOThread] WARNING: Failed to launch tab subprocess: file /builds/worker/checkouts/gecko/ipc/glue/GeckoChildProcessHost.cpp:745
+[Parent 51831, IPC Launch #1] WARNING: parent GetTranslatedPort(1) failed.: file /builds/worker/checkouts/gecko/ipc/glue/GeckoChildProcessHost.cpp:1310
+[Parent 51831, Gecko_IOThread] WARNING: Failed to launch tab subprocess: file /builds/worker/checkouts/gecko/ipc/glue/GeckoChildProcessHost.cpp:745
+[Parent 51831, IPC Launch #1] WARNING: parent GetTranslatedPort(1) failed.: file /builds/worker/checkouts/gecko/ipc/glue/GeckoChildProcessHost.cpp:1310
+[Parent 51831, Gecko_IOThread] WARNING: Failed to launch tab subprocess: file /builds/worker/checkouts/gecko/ipc/glue/GeckoChildProcessHost.cpp:745
+[Parent 51831, IPC Launch #1] WARNING: parent GetTranslatedPort(1) failed.: file /builds/worker/checkouts/gecko/ipc/glue/GeckoChildProcessHost.cpp:1310
+[Parent 51831, Gecko_IOThread] WARNING: Failed to launch tab subprocess: file /builds/worker/checkouts/gecko/ipc/glue/GeckoChildProcessHost.cpp:745
+[Parent 51831, IPC Launch #2] WARNING: parent GetTranslatedPort(1) failed.: file /builds/worker/checkouts/gecko/ipc/glue/GeckoChildProcessHost.cpp:1310
+[Parent 51831, Gecko_IOThread] WARNING: Failed to launch tab subprocess: file /builds/worker/checkouts/gecko/ipc/glue/GeckoChildProcessHost.cpp:745
+[Parent 51831, IPC Launch #1] WARNING: parent GetTranslatedPort(1) failed.: file /builds/worker/checkouts/gecko/ipc/glue/GeckoChildProcessHost.cpp:1310
+[Parent 51831, Gecko_IOThread] WARNING: Failed to launch tab subprocess: file /builds/worker/checkouts/gecko/ipc/glue/GeckoChildProcessHost.cpp:745
