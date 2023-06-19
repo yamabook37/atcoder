@@ -7,13 +7,13 @@ n = int(input())
 
 ## 整数組 x y
 ```python
-x,y = map(int, input().split(' '))
+x,y = map(int, input().split())
 ```
 
 ## 整数と改行なし数列 n / a1 ... an
 ```python
 n = int(input())
-a = list(map(int, input().split(' ')))
+a = list(map(int, input().split()))
 ```
 
 ## 整数と改行あり整数 n / s1 / ... / sn
