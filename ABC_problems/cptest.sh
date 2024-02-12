@@ -1,4 +1,4 @@
-#!/bin/bash
+#!/bin/zsh
 
 problem_name=$1
 test_dir=test/${problem_name}
