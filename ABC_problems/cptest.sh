@@ -6,4 +6,4 @@ base_url=${problem_name%_*}
 echo ${test_dir}
 
 # run test by -c
-oj test -c "python3 /Users/yuki/Develop/pythonProject/python3/Atcoder/ABC_problems/${problem_name}.py" -d test/${problem_name}
+oj test -c "python3 /Users/yuki/Develop/pythonProject/python3/Atcoder/ABC_problems/${problem_name}.py" -d /Users/yuki/Develop/pythonProject/python3/Atcoder/ABC_problems/test/${problem_name}
